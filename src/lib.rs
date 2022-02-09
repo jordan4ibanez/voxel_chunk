@@ -1,4 +1,4 @@
-mod chunk;
+pub mod chunk;
 
 /*
 Make sure to use:
