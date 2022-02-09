@@ -10,4 +10,4 @@ keywords = ["voxel", "data", "blocks", "arrays"]
 
 [dependencies]
 cgmath = "0.18.0"
-rand = "*"
+rand = "0.8.4"
