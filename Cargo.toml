@@ -1,0 +1,11 @@
+[package]
+name = "voxel_chunk"
+version = "0.0.1"
+edition = "2021"
+license = "MIT OR LGPL-2.1-only"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+cgmath = "0.18.0"
+rand = "*"
